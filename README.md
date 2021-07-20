@@ -1,8 +1,7 @@
 <h2><b>Online Bookstore</b></h2>
 
 An E-Commerce Web Application. The goal of this project is to bring knowledge about E-commerce and how an interactive/user friendly Ecommerce web application can be designed from scratch using 
-client-side languages, such HTML and CSS, combined with Java, JSP, Java Servlet and the MVC technology. SQL is used in the backend to build the database and GlassFish is used as 
-the application server.
+client-side languages, such HTML and CSS, combined with Java, JSP, Java Servlet and the MVC technology. The Servlet files(see src/java/servlet folder) behave as the controller communicating information between the View aka the JSP files(see /web folder) and Model aka the files conneceting the MySql database(see src/java/model). SQL is used in the backend to build the database and GlassFish is used as the application server.
 
 <h2><b>Description</b></h2>
 - The three types of accesses available are: Visitor, User and Admin.<br>
@@ -46,4 +45,6 @@ the application server.
 ----------------------------------------------------------------------------------------------------------------------------------<br>
 - About page is available to contact Admin for queries.<br>
 
+
+<h1>CODE CAN BE REVIEWED IN THE SRC/JAVA and WEB FOLDERS<h1>
   
